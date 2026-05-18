@@ -1,0 +1,7 @@
+print('Olá, Mundo!')
+print('Estou aprendendo Python')
+
+nome = 'Daniela'
+idade = 20
+
+print('Meu nome é', nome, 'e eu tenho', idade, 'anos')
