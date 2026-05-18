@@ -1,6 +1,3 @@
-   python nome_do_arquivo.py
-   Aqui está o código completo do `README.md` unificado, pronto para você apenas copiar e colar no seu arquivo:
-```markdown
 # 🐍 python-essence // Foundations & Logic
 
 <p align="center">
