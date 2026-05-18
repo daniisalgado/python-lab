@@ -42,5 +42,5 @@ Abaixo estão mapeadas as etapas de aprendizado estruturadas de forma linear e m
 Para testar as rotinas e algoritmos localmente, siga o fluxo abaixo:
 
 ```bash
-   git clone [https://github.com/daniisalgado/python-lab/tree/main](https://github.com/daniisalgado/python-essence.git)
+   git clone [https://github.com/daniisalgado/python-lab/tree/main]
    
